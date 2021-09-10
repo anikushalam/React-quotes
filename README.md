@@ -1,6 +1,7 @@
 # React-quotes
 This is a Single Page Application (SPA). And it includes the Rest Api and to create a Quotes and comments any quotes and sort the quotes by ascending or descending order.
 
+![Image 1](https://raw.githubusercontent.com/himanshup/yelp-camp/master/screenshots/image1.png)  
 
 # Getting Started with Create React App
 
